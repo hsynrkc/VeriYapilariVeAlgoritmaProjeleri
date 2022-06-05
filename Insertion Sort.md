@@ -1,7 +1,9 @@
 Insertion Sort
+
 Insertion sort sıralı diziyi her adımda eleman eleman oluşturan bir sıralama algoritmasıdır. 
 
 Proje 1
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
