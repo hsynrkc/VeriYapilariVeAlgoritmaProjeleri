@@ -7,20 +7,7 @@ Proje 2
 
 1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-             [16,21,11,8,12,22] 
-
-  [16,21,11]                    [8,12,22] 
-
- [16]  [21,11]                 [8,12]   [22] 
-
- [16]   [21] [11]              [8] [12]   [22] 
-
- [16]   [11,21]					[8,12]  [22]
-
-   [16,21,11]                    [8,12,22] 
-
-             [8,12,16,21,11,22]
-
+![image](https://user-images.githubusercontent.com/102507139/172069873-fc8b6a9b-6d9d-4568-9446-8c9ad58a6959.png)
 
 2.Big-O gösterimini yazınız.
 
