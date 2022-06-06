@@ -3,7 +3,9 @@
 
 2-) Merge Sort Projesi
 
-3-) 
+3-) Binary-Search-Tree Projesi
 
 Patika.dev eğitim ödevleri
+
+patika linkim : https://app.patika.dev/yolbars
 
